@@ -1,0 +1,3 @@
+#otorgamos acceso completo
+User-agent:*
+Disallow:
